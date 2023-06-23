@@ -52,7 +52,7 @@
     "request-promise-native": "1.0.5",
     "resolve-from": "4.0.0",
     "secure-random-string": "1.0.0",
-    "semver": "5.5.0",
+    "semver": "7.5.2",
     "style-loader": "0.21.0",
     "svg-url-loader": "2.3.2",
     "uglifyjs-webpack-plugin": "1.2.7",
